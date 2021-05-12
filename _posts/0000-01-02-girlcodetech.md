@@ -1,5 +1,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 
-Your text
-Use the left arrow to go back!
+*bold* "You only get old when you stop learning" *bold*
